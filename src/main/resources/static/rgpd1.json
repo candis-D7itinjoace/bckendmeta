@@ -1,0 +1,52 @@
+[
+  {
+    "number": "Article 1",
+    "title": "Objectif de la loi",
+    "summary": "Énonce l'objectif principal de la loi, qui est de régir la collecte, l'utilisation et la divulgation des renseignements personnels par les organisations fédérales dans le cadre de leurs activités commerciales."
+  },
+  {
+    "number": "Article 2",
+    "title": "Définitions",
+    "summary": "Fournit des définitions pour les termes clés utilisés dans la loi, y compris les définitions de 'renseignements personnels', 'organisation' et 'consentement', entre autres."
+  },
+  {
+    "number": "Article 3",
+    "title": "Portée de la loi",
+    "summary": "Établit la portée de la loi en ce qui concerne les renseignements personnels recueillis, utilisés ou divulgués par les organisations fédérales dans le cadre de leurs activités commerciales."
+  },
+  {
+    "number": "Article 4",
+    "title": "Consentement",
+    "summary": "Établit les principes de base du consentement pour la collecte, l'utilisation et la divulgation des renseignements personnels, précisant que le consentement doit être obtenu de manière éclairée et volontaire."
+  },
+  {
+    "number": "Article 5",
+    "title": "Limitations au consentement",
+    "summary": "Prévoit des exceptions au principe du consentement pour la collecte, l'utilisation et la divulgation des renseignements personnels dans certaines circonstances spécifiques, telles que des fins d'enquête ou de sécurité nationale."
+  },
+  {
+    "number": "Article 6",
+    "title": "Collecte de renseignements personnels",
+    "summary": "Établit les exigences et les limites pour la collecte de renseignements personnels par les organisations fédérales, y compris l'obligation de limiter la collecte au strict nécessaire pour les fins identifiées."
+  },
+  {
+    "number": "Article 7",
+    "title": "Utilisation de renseignements personnels",
+    "summary": "Établit les principes et les restrictions pour l'utilisation des renseignements personnels par les organisations fédérales, y compris l'obligation de ne pas utiliser les renseignements à des fins autres que celles identifiées."
+  },
+  {
+    "number": "Article 8",
+    "title": "Divulgation de renseignements personnels",
+    "summary": "Établit les exigences et les restrictions pour la divulgation des renseignements personnels par les organisations fédérales, y compris l'obligation de ne divulguer les renseignements qu'avec le consentement de l'individu concerné."
+  },
+  {
+    "number": "Article 9",
+    "title": "Conservation de renseignements personnels",
+    "summary": "Établit les exigences pour la conservation sécurisée des renseignements personnels par les organisations fédérales, y compris la limitation de la conservation à la durée nécessaire pour les fins identifiées."
+  },
+  {
+    "number": "Article 10",
+    "title": "Exactitude de renseignements personnels",
+    "summary": "Établit l'obligation pour les organisations fédérales de veiller à ce que les renseignements personnels qu'elles détiennent soient exacts, à jour et complets, et de corriger toute inexactitude dès que possible."
+  }
+]
